@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">YoklapKalma</string>
+
+    <string name="title_alarm">Alarm</string>
+    <string name="title_map">Map</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="warning">Warning</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="search">Search</string>
+    <string name="error_message">You want to creating point near with your geolocation</string>
+
+    <string name="radius_text_view">Radius</string>
+    <string name="ringtone_text_view">Ringtone</string>
+    <string name="rising_sound_switch">Rising sound</string>
+    <string name="vibration_switch">Vibration</string>
+    <string name="flashlight_switch">Flashlight</string>
+
+    <string name="about_button">About us</string>
+    <string name="report_button">Report</string>
+    <string name="dark_theme_switch">Dark theme</string>
+    <string name="start_button">Start</string>
+    <string name="GPS">GPS recording</string>
+    <string name="active">I am working</string>
+    <string name="about">Программа сделанна командой студентов УГАТУ\nСагидуллин Ришат\nМуртазин Раиль\nШаймарданов Айгиз </string>
+
+</resources>
